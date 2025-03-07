@@ -1,4 +1,4 @@
-# Game Day Analytics Challenge
+# Game Day Analytics Challenge 2023
 
 Utilized Python in Jupyter Notebooks to derive findings. Used Tableau to create data visuals. Used Canva to create creative assets / graphics.
 
